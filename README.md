@@ -133,12 +133,3 @@ This project is intended for detection engineering, visibility, and coverage ana
 Review and validate results before using in production environments.
 
 ---
-
-
-لو حابب نسخة:
-
-* أقصر
-* مناسبة للـ CV أو LinkedIn
-* أو موجهة أكتر للـ Hiring Managers
-
-قولي وأنا أظبطها فورًا.
